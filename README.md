@@ -158,10 +158,11 @@ If desired, you can use keyboard for menu gestures typically performed with mous
 
 ### Screenshots
 
-**⌘⇧3** Screenshot of the entire screen. Learn more screenshot shortcuts.  
+**⌘⇧3** Screenshot of the entire screen.  
 **⌘⇧4** Screenshot of selection of screen.  
-**⌘⇧4** followed by **Space**: Screenshot of window.  
-([more instructions](https://support.apple.com/en-us/HT201361))
+**⌘⇧4** followed by **Space**: Screenshot of window.
+
+Screenshots are saved to Desktop, add ⌃ to copy to clipboard. ([more instructions](https://support.apple.com/en-us/HT201361))
 
 ### Sleep, log out, and shut down
 
