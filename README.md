@@ -105,7 +105,7 @@ The list above is not exhaustive, but you can learn additional ones via the [key
 
 ### Copy/Paste
 
-**⌘A** *Select All *items.  
+**⌘A** *Select All* items.  
 **⌘X** *Cut*: Remove the selected item and copy it to the Clipboard.  
 **⌘C** *Copy* the selected item to the Clipboard. This also works for files in the Finder.  
 **⌘V** *Paste* the contents of the Clipboard into the current document or app. This also works for files in the Finder.  
@@ -215,8 +215,8 @@ If desired, you can use keyboard for menu gestures typically performed with mous
 
 **Fn↑** Page Up: Scroll up one page.  
 **Fn↓** Page Down: Scroll down one page.  
-**Fn←** Home: Scroll to the beginning of a document.  
-**Fn→** **End: Scroll to the end of a document.  
+**Fn←** *Home*: Scroll to the beginning of a document.  
+**Fn→** *End*: Scroll to the end of a document.  
 **⌘↑** Move the insertion point to the beginning of the document.  
 **⌘↓** Move the insertion point to the end of the document.  
 **⌘←** Move the insertion point to the beginning of the current line.  
