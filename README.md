@@ -104,7 +104,7 @@ The list above is not exhaustive, but you can learn additional ones via the [key
 ### Copy/Paste
 
 **⌘A** *Select All *items.  
-**⌘X** *Cut*: Remove the selected item and copy it to the Clipboard.  
+**⌘X** **Cut*: Remove the selected item and copy it to the Clipboard.  
 **⌘C** *Copy* the selected item to the Clipboard. This also works for files in the Finder.  
 **⌘V** *Paste* the contents of the Clipboard into the current document or app. This also works for files in the Finder.  
 **⌘⇧⌥V** *Paste and Match Style*: Apply the style of the surrounding content to the item pasted within that content.  
@@ -129,7 +129,7 @@ The list above is not exhaustive, but you can learn additional ones via the [key
 
 **⌘N** *New*: Open an new document or window.  
 **⌘O** *Open* the selected item, or open a dialog to select a file to open.  
-**⌘S ***Save* the current document.  
+**⌘S **Save* the current document.  
 **⌘P** *Print* the current document.  
 
 **⌘Q** *Quit* the app.  
@@ -214,7 +214,7 @@ If desired, you can use keyboard for menu gestures typically performed with mous
 **Fn↑** Page Up: Scroll up one page.  
 **Fn↓** Page Down: Scroll down one page.  
 **Fn←** Home: Scroll to the beginning of a document.  
-**Fn→ **End: Scroll to the end of a document.  
+**Fn→** **End: Scroll to the end of a document.  
 **⌘↑** Move the insertion point to the beginning of the document.  
 **⌘↓** Move the insertion point to the end of the document.  
 **⌘←** Move the insertion point to the beginning of the current line.  
@@ -268,7 +268,7 @@ If desired, you can use keyboard for menu gestures typically performed with mous
 **⌘⌥N** Create a new Smart Folder.  
 
 **⌘⌫** Move the selected item to the Trash.  
-**⌘⇧⌫ **Empty the Trash.  
+**⌘⇧⌫** Empty the Trash.  
 **⌘⇧⌥⌫** Empty the Trash without confirmation dialog.  
 
 ### More Operations
@@ -297,7 +297,7 @@ If desired, you can use keyboard for menu gestures typically performed with mous
 **⌘⌥P** Hide or show the path bar in Finder windows.  
 **⌘⌥S** Hide or show the Sidebar in Finder windows.  
 **⌘/** (slash) Hide or show the status bar in Finder windows.  
-**⌘J **Show View options.  
+**⌘J** Show View options.  
 **⌘K** Open the Connect to Server window.  
 **⌘L** Make an alias of the selected item.  
 **⌘R** Show the original file for the selected alias.  
@@ -308,7 +308,7 @@ If desired, you can use keyboard for menu gestures typically performed with mous
 **⌘⌥Y** View a Quick Look slideshow of the selected files.  
 **⌘Y** Use Quick Look to preview the selected files.  
 
-**⌘1 **View the items in the Finder window as icons.  
+**⌘1** View the items in the Finder window as icons.  
 **⌘2** View the items in a Finder window as a list.  
 **⌘3** View the items in a Finder window in columns.  
 **⌘4** View the items in a Finder window with Cover Flow.  
