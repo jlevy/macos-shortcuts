@@ -4,7 +4,9 @@
 
 OS X keyboard shortcuts are listed in the [standard places](https://support.apple.com/en-us/HT201236), but who wants to dig through all that? Here they are in one page, organized roughly so more frequently useful ones are at the front.
 
-We cover shortcuts for OS X that work in many apps or in Finder, but not shortcuts for individual apps. Note global shortcuts [can be reassigned](https://support.apple.com/kb/PH18415?locale=en_US&viewlocale=en_US) and [may conflict](https://support.apple.com/kb/PH18424?locale=en_US&viewlocale=en_US) and stop working, but these are the default settings. If you see any way this can be improved, [please contribute](CONTRIBUTING.md)!
+We cover shortcuts for OS X that work in many apps or in Finder, but not shortcuts for individual apps. Note global shortcuts [can be reassigned](https://support.apple.com/kb/PH18415?locale=en_US&viewlocale=en_US) and [may conflict](https://support.apple.com/kb/PH18424?locale=en_US&viewlocale=en_US) and stop working.
+**These are the default settings.**
+If you see any way this can be improved, **[please contribute](CONTRIBUTING.md)**!
 
 Contents:  
 &nbsp;&nbsp;&nbsp;&nbsp;[The Keys](#the-keys)  
