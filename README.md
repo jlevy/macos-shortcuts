@@ -106,7 +106,7 @@ The list above is not exhaustive, but you can learn additional ones via the [key
 ### Copy/Paste
 
 **⌘A** *Select All *items.  
-**⌘X** **Cut*: Remove the selected item and copy it to the Clipboard.  
+**⌘X** *Cut*: Remove the selected item and copy it to the Clipboard.  
 **⌘C** *Copy* the selected item to the Clipboard. This also works for files in the Finder.  
 **⌘V** *Paste* the contents of the Clipboard into the current document or app. This also works for files in the Finder.  
 **⌘⇧⌥V** *Paste and Match Style*: Apply the style of the surrounding content to the item pasted within that content.  
@@ -131,7 +131,7 @@ The list above is not exhaustive, but you can learn additional ones via the [key
 
 **⌘N** *New*: Open an new document or window.  
 **⌘O** *Open* the selected item, or open a dialog to select a file to open.  
-**⌘S **Save* the current document.  
+**⌘S** *Save* the current document.  
 **⌘P** *Print* the current document.  
 
 **⌘Q** *Quit* the app.  
