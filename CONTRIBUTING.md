@@ -6,5 +6,6 @@ Please help make this list more helpful, easier to use, or more complete!
 
 [File PRs](https://github.com/open-guides/og-osx-shortcuts/pulls) with improvements.
 Try to keep them focused, with different issues for different changes.
-If you don't have time or are unsure how to write it, or it's a general suggestion or a question, just
+If you don't have time or are unsure how to write it, just
 [file an issue](https://github.com/open-guides/og-osx-shortcuts/issues) instead.
+File issues for general suggestions or questions too!

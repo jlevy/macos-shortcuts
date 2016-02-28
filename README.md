@@ -4,7 +4,7 @@
 
 **⌘⇧⌥⌃ε=ε=ε=ε=ε=ε=┌(|•͡˘‿•͡˘)┘.**
 
-Lists of OS X keyboard shortcuts exist in the [usual places](https://support.apple.com/en-us/HT201236), but they are mostly both incomplete and a slog to read through.
+Lists of OS X keyboard shortcuts exist in the [usual places](https://support.apple.com/kb/HT201236), but they are mostly both incomplete and a slog to read through.
 Here they are in one page, organized roughly so more frequently useful ones are at the front; reading just the first few sections will save you time.
 We cover shortcuts for OS X that work in many apps or in Finder, but not shortcuts for individual apps.
 **Note these are the default settings.**
@@ -39,19 +39,19 @@ Mac hardware conventionally uses several **modifier keys**, which
 ## Input Methods and Special Characters
 
 You can write common Unicode symbols, punctuation, and accented letters with shortcuts.
-The [keyboard viewer](https://support.apple.com/kb/PH21565) will allow you to discover them, or fall back to the [character viewer](https://support.apple.com/en-us/HT201586).
+The [keyboard viewer](https://support.apple.com/kb/PH21565) will allow you to discover them, or fall back to the [character viewer](https://support.apple.com/kb/HT201586).
 
 ### Input
 
 - Use **⌘⌃Space** for **[emoji and special character pop-up](http://www.engadget.com/2013/12/13/this-is-the-most-important-mavericks-keyboard-shortcut-youll-di/)**. This is the quickest way for most to find special characters.
 - You can switch to different **language keyboards** by adding new [input source](https://support.apple.com/kb/PH21564).
 Once multiple inputs are enabled, use the menu to select or **^⌥Space**.
-- Pressing **Fn** **Fn** will start voice dictation if you [enable this feature](https://support.apple.com/en-us/HT202584).
+- Pressing **Fn** **Fn** will start voice dictation if you [enable this feature](https://support.apple.com/kb/HT202584).
 - Add the “Unicode Hex Input” keyboard for [entering Unicode inputs by code](Unicode Hex Input).
 
 ### Accents
 
-You can **type accents by [holding down keys](https://support.apple.com/en-us/HT201586)**, unless you [disable that feature](http://lifehacker.com/5826055/make-your-keyboard-keys-repeat-properly-when-held-down-in-mac-os-x-lion).
+You can **type accents by [holding down keys](https://support.apple.com/kb/HT201586)**, unless you [disable that feature](http://lifehacker.com/5826055/make-your-keyboard-keys-repeat-properly-when-held-down-in-mac-os-x-lion).
 You can also type accents by pressing one of these modifier keys before a suitable letter (for example, **⌥I o** yields the letter *ô*):
 
 **⌥E** Acute ´ &nbsp;&nbsp;
@@ -167,7 +167,7 @@ If desired, you can use keyboard for menu gestures typically performed with mous
 **⌘⇧4** Screenshot of selection of screen.  
 **⌘⇧4** followed by **Space**: Screenshot of window.
 
-Screenshots are saved to Desktop, add ⌃ to copy to clipboard. ([more instructions](https://support.apple.com/en-us/HT201361))
+Screenshots are saved to Desktop, add ⌃ to copy to clipboard. ([more instructions](https://support.apple.com/kb/HT201361))
 
 ### Log Out, Sleep, Restart, and Shut Down
 
