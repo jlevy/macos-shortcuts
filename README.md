@@ -2,7 +2,7 @@
 
 **⌘⇧⌥⌃ε=ε=ε=ε=ε=ε=┌(|•͡˘‿•͡˘)┘.**
 
-OS X keyboard shortcuts are listed in the [standard places](https://support.apple.com/en-us/HT201236), but who wants to dig through all that? Here they are in one page, organized roughly so more frequently useful ones are at the front.
+Lists of OS X keyboard shortcuts [already ](https://support.apple.com/en-us/HT201236), but who wants to dig through all that? Here they are in one page, organized roughly so more frequently useful ones are at the front.
 
 We cover shortcuts for OS X that work in many apps or in Finder, but not shortcuts for individual apps.
 **Note these are the default settings.**
@@ -51,7 +51,7 @@ Once multiple inputs are enabled, use the menu to select or **^⌥Space**.
 ### Accents
 
 You can **type accents by [holding down keys](https://support.apple.com/en-us/HT201586)**, unless you [disable that feature](http://lifehacker.com/5826055/make-your-keyboard-keys-repeat-properly-when-held-down-in-mac-os-x-lion).
-You can also type accents by pressing one of these modifier keys before a suitable letter :
+You can also type accents by pressing one of these modifier keys before a suitable letter (for example, **⌥I o** yields the letter *ô*):
 
 **⌥E** Acute ´ &nbsp;&nbsp;
 **⌥I** Circumflex ˆ &nbsp;&nbsp;
@@ -59,19 +59,18 @@ You can also type accents by pressing one of these modifier keys before a suitab
 **⌥N** Tilde ˜ &nbsp;&nbsp;
 **⌥U** Umlaut ¨
 
-Example: **⌥I o** yields the letter *ô*.
 
 ### Punctuation
 
 
 Enter an **[em dash](http://www.thepunctuationguide.com/em-dash.html)** (—) with **⇧⌥-**  
-Enter an [en dash](http://www.thepunctuationguide.com/en-dash.html) (–) with **⌥-**
+Enter an **[en dash](http://www.thepunctuationguide.com/en-dash.html)** (–) with **⌥-**
 
 **Open and close quotes**: &nbsp; **⌥[** “ &nbsp; **⇧⌥[** ” &nbsp; **⌥]** ‘ &nbsp; **⇧⌥]** ’ &nbsp;
 **⌥/** « &nbsp; **⇧⌥/** »  
 (These are not the same as the ASCII characters " and '. If you’re confused, read more about [typographical conventions](http://practicaltypography.com/straight-and-curly-quotes.html).)
 
-Some other **special character shortcuts**:  
+Some other special character shortcuts:  
 **⌥G** © &nbsp;
 **⌥R** ® &nbsp;
 **⌥2** ™ &nbsp;
@@ -125,7 +124,7 @@ The list above is not exhaustive, but you can learn additional ones via the **[k
 
 ### Window Operations
 
-**⌘Tab** *Switch apps*: Switch to the next most recently used app among your open apps. **⌘⇧Tab** for reverse direction.
+**⌘Tab** *Switch apps*: Switch to the next most recently used app among your open apps. Press **`** (the key above Tab) while keeping the **⌘** held down to reverse directions (or use **⌘⇧Tab**).  
 **⌘`** *Switch windows*: Switch to the next most recently used window of the front app. **⌘⇧`** for reverse direction.
 
 **⌘H** *Hide* the windows of the front app. To view the front app but hide all other apps, press **⌘⌥H**.  
@@ -344,15 +343,15 @@ Screenshots are saved to Desktop, add ⌃ to copy to clipboard. ([more instructi
 
 ## More Shortcuts
 
-* [Shortcuts you can use while your Mac is starting up](https://support.apple.com/kb/HT201255)
-* [Shortcuts for accessibility features](https://support.apple.com/kb/HT204434)
-* Shortcuts for [Safari 8 (Yosemite) ](https://support.apple.com/kb/PH19282)and [Safari 9 (El Capitan)](https://support.apple.com/kb/PH21483)
+* [Startup key combinations](https://support.apple.com/kb/HT201255).
+* [Shortcuts for accessibility features](https://support.apple.com/kb/HT204434).
+* Shortcuts for [Safari 8 (Yosemite) ](https://support.apple.com/kb/PH19282)and [Safari 9 (El Capitan)](https://support.apple.com/kb/PH21483).
 
 ## Further Reading
 
-* [Create new shortcuts](https://support.apple.com/kb/PH21534) and [resolve conflicts with shortcuts](https://support.apple.com/kb/PH21540)
-* Change the behavior of the [function keys](https://support.apple.com/kb/HT204436) or reassign [modifier keys](https://support.apple.com/kb/PH18422)
-* Use [spoken commands](https://support.apple.com/kb//HT203085) for keyboard shortcuts
+* [Create new shortcuts](https://support.apple.com/kb/PH21534) and [resolve conflicts with shortcuts](https://support.apple.com/kb/PH21540).
+* Change the behavior of the [function keys](https://support.apple.com/kb/HT204436) or reassign [modifier keys](https://support.apple.com/kb/PH18422).
+* Use [spoken commands](https://support.apple.com/kb//HT203085) for keyboard shortcuts.
 
 
 ## License
