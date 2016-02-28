@@ -1,4 +1,6 @@
-# The Open Guide to OS X Shortcuts
+# OS X Shortcuts
+
+### An Open Guide
 
 **⌘⇧⌥⌃ε=ε=ε=ε=ε=ε=┌(|•͡˘‿•͡˘)┘.**
 
