@@ -2,13 +2,12 @@
 
 **⌘⇧⌥⌃ε=ε=ε=ε=ε=ε=┌(|•͡˘‿•͡˘)┘.**
 
-Lists of OS X keyboard shortcuts [already ](https://support.apple.com/en-us/HT201236), but who wants to dig through all that? Here they are in one page, organized roughly so more frequently useful ones are at the front.
-
+Lists of OS X keyboard shortcuts exist in the [usual places](https://support.apple.com/en-us/HT201236), but they are mostly both incomplete and a slog to read through.
+Here they are in one page, organized roughly so more frequently useful ones are at the front; reading just the first few sections will save you time.
 We cover shortcuts for OS X that work in many apps or in Finder, but not shortcuts for individual apps.
 **Note these are the default settings.**
 Global shortcuts [can be reassigned](https://support.apple.com/kb/PH18415) and if assigned in conflicting ways [may stop working](https://support.apple.com/kb/PH18424).
-
-If you see any way this can be improved, **[please contribute](CONTRIBUTING.md)**!
+If you see any ways this can be improved, **[please contribute](CONTRIBUTING.md)**!
 
 Contents:  
 &nbsp;&nbsp;&nbsp;&nbsp;[The Keys](#the-keys)  
