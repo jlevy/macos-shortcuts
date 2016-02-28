@@ -4,13 +4,15 @@
 
 OS X keyboard shortcuts are listed in the [standard places](https://support.apple.com/en-us/HT201236), but who wants to dig through all that? Here they are in one page, organized roughly so more frequently useful ones are at the front.
 
-We cover shortcuts for OS X that work in many apps or in Finder, but not shortcuts for individual apps. Note global shortcuts [can be reassigned](https://support.apple.com/kb/PH18415?locale=en_US&viewlocale=en_US) and [may conflict](https://support.apple.com/kb/PH18424?locale=en_US&viewlocale=en_US) and stop working.
-**These are the default settings.**
+We cover shortcuts for OS X that work in many apps or in Finder, but not shortcuts for individual apps.
+**Note these are the default settings.**
+Global shortcuts [can be reassigned](https://support.apple.com/kb/PH18415) and if assigned in conflicting ways [may stop working](https://support.apple.com/kb/PH18424).
+
 If you see any way this can be improved, **[please contribute](CONTRIBUTING.md)**!
 
 Contents:  
 &nbsp;&nbsp;&nbsp;&nbsp;[The Keys](#the-keys)  
-&nbsp;&nbsp;&nbsp;&nbsp;[Languages, Accents, and Special Characters](#languages-accents-and-special-characters)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Input Methods and Special Characters](#input-methods-and-special-characters)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Common Shortcuts](#common-shortcuts)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Useful But Less Common](#useful-but-less-common)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Finder](#finder)  
@@ -33,39 +35,43 @@ Mac hardware conventionally uses several **modifier keys**, which
 **⌫** Delete  
 **⌽** Power
 
-## Languages, Accents, and Special Characters
+## Input Methods and Special Characters
 
 You can write common Unicode symbols, punctuation, and accented letters with shortcuts.
 The [keyboard viewer](https://support.apple.com/kb/PH21565) will allow you to discover them, or fall back to the [character viewer](https://support.apple.com/en-us/HT201586).
 
-### Input Sources
+### Input
 
-You can switch to a keyboard layout appropriate to a specific language by adding new [input source](https://support.apple.com/kb/PH21564?locale=en_US).
-Note you can add the “Unicode Hex Input” keyboard for [entering Unicode inputs by code](Unicode Hex Input).
+- Use **⌘⌃Space** for **[emoji and special character pop-up](http://www.engadget.com/2013/12/13/this-is-the-most-important-mavericks-keyboard-shortcut-youll-di/)**. This is the quickest way for most to find special characters.
+- You can switch to different **language keyboards** by adding new [input source](https://support.apple.com/kb/PH21564).
 Once multiple inputs are enabled, use the menu to select or **^⌥Space**.
+- Pressing **Fn** **Fn** will start voice dictation if you [enable this feature](https://support.apple.com/en-us/HT202584).
+- Add the “Unicode Hex Input” keyboard for [entering Unicode inputs by code](Unicode Hex Input).
 
 ### Accents
 
-Press these followed by suitable letters to add the given accent:
+You can **type accents by [holding down keys](https://support.apple.com/en-us/HT201586)**, unless you [disable that feature](http://lifehacker.com/5826055/make-your-keyboard-keys-repeat-properly-when-held-down-in-mac-os-x-lion).
+You can also type accents by pressing one of these modifier keys before a suitable letter :
 
-**⌥E** Acute &nbsp;
-**⌥I** Circumflex &nbsp;
-**⌥`** Grave &nbsp;
-**⌥N** Tilde &nbsp;
-**⌥U** Umlaut
+**⌥E** Acute ´ &nbsp;&nbsp;
+**⌥I** Circumflex ˆ &nbsp;&nbsp;
+**⌥`** Grave \` &nbsp;&nbsp;
+**⌥N** Tilde ˜ &nbsp;&nbsp;
+**⌥U** Umlaut ¨
 
-You can also type accents by [holding down keys](https://support.apple.com/en-us/HT201586), unless you [disable that feature](http://lifehacker.com/5826055/make-your-keyboard-keys-repeat-properly-when-held-down-in-mac-os-x-lion).
+Example: **⌥I o** yields the letter *ô*.
 
 ### Punctuation
 
-**⌥-** [en dash](http://www.thepunctuationguide.com/en-dash.html): – &nbsp;
-**⇧⌥-** [em dash](http://www.thepunctuationguide.com/em-dash.html): —  &nbsp;
-(modifiers with hyphen key yield dashes of different lengths)
 
-**⌥]** ‘ &nbsp; **⇧⌥]** ’ &nbsp; (open and close single quotes, not ASCII ')  
-**⌥[** “ &nbsp; **⇧⌥[** ” &nbsp; (open and close double quotes, not ASCII ")  
-**⌥/** « &nbsp; **⇧⌥/** » &nbsp; (open and close French/Spanish quotes)
+Enter an **[em dash](http://www.thepunctuationguide.com/em-dash.html)** (—) with **⇧⌥-**  
+Enter an [en dash](http://www.thepunctuationguide.com/en-dash.html) (–) with **⌥-**
 
+**Open and close quotes**: &nbsp; **⌥[** “ &nbsp; **⇧⌥[** ” &nbsp; **⌥]** ‘ &nbsp; **⇧⌥]** ’ &nbsp;
+**⌥/** « &nbsp; **⇧⌥/** »  
+(These are not the same as the ASCII characters " and '. If you’re confused, read more about [typographical conventions](http://practicaltypography.com/straight-and-curly-quotes.html).)
+
+Some other **special character shortcuts**:  
 **⌥G** © &nbsp;
 **⌥R** ® &nbsp;
 **⌥2** ™ &nbsp;
@@ -83,7 +89,6 @@ You can also type accents by [holding down keys](https://support.apple.com/en-us
 **⇧⌥?** ¿ &nbsp;
 **⌥0** º &nbsp;
 **⌥9** ª  
-
 **⌥a** å &nbsp;
 **⌥C** ç &nbsp;
 **⌥o** ø &nbsp;
@@ -91,7 +96,7 @@ You can also type accents by [holding down keys](https://support.apple.com/en-us
 **⌥q** œ (with **⇧** for capitals)  
 **⌥S** ß
 
-The list above is not exhaustive, but you can learn additional ones via the [keyboard viewer](https://support.apple.com/kb/PH21565) or these lists of [regular](http://symbolcodes.tlt.psu.edu/accents/codemac.html) and [extended](http://symbolcodes.tlt.psu.edu/accents/codemacext.html) shortcuts.
+The list above is not exhaustive, but you can learn additional ones via the **[keyboard viewer](https://support.apple.com/kb/PH21565)** or these lists of [regular](http://symbolcodes.tlt.psu.edu/accents/codemac.html) and [extended](http://symbolcodes.tlt.psu.edu/accents/codemacext.html) shortcuts.
 
 ## Common Shortcuts
 
@@ -120,7 +125,7 @@ The list above is not exhaustive, but you can learn additional ones via the [key
 
 ### Window Operations
 
-**⌘Tab** *Switch apps*: Switch to the next most recently used app among your open apps.  
+**⌘Tab** *Switch apps*: Switch to the next most recently used app among your open apps. **⌘⇧Tab** for reverse direction.
 **⌘`** *Switch windows*: Switch to the next most recently used window of the front app. **⌘⇧`** for reverse direction.
 
 **⌘H** *Hide* the windows of the front app. To view the front app but hide all other apps, press **⌘⌥H**.  
@@ -164,7 +169,10 @@ If desired, you can use keyboard for menu gestures typically performed with mous
 
 Screenshots are saved to Desktop, add ⌃ to copy to clipboard. ([more instructions](https://support.apple.com/en-us/HT201361))
 
-### Sleep, log out, and shut down
+### Log Out, Sleep, Restart, and Shut Down
+
+**⌘⇧Q** Log out of user account, with confirmation.  
+**⌘⇧⌥Q** Without confirmation.  
 
 **⌽** Tap the power button to turn on or wake from sleep. While awake, hold for 1.5 seconds for dialog for box with restart, sleep, or shut down options. Hold for 5 seconds to force your Mac to turn off.  
 **⌃⌽** Avoids the 1.5 second wait.  
@@ -172,8 +180,6 @@ Screenshots are saved to Desktop, add ⌃ to copy to clipboard. ([more instructi
 **⇧⌃⌽**  Put displays to sleep.  
 **⌘⌃⌽** Quit all apps, then restart, first asking whether to save unsaved work.  
 **⌘⌥⌃⌽** Quit all apps, then shut down, first asking whether to save unsaved work.  
-**⌘⇧Q** Log out of user account, with confirmation.  
-**⌘⇧⌥Q** Without confirmation.  
 
 ## Working With Documents
 
@@ -257,10 +263,11 @@ Screenshots are saved to Desktop, add ⌃ to copy to clipboard. ([more instructi
 
 ### Common Operations
 
+**Typing letters** jumps to files beginning with those letters.
+
 **↑** or **↓** (list view) *Scroll up* and *down* (list view).  
 **→** or **←** (list view) *Open* and *Close* the selected folder.  
 **Space bar** (list view) *Quick Look*: Use Quick Look to preview the selected item.
-
 
 **⌘N** Open a new Finder window.  
 **⌘I** Show the Get Info window for a selected file.  
