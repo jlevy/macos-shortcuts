@@ -43,11 +43,11 @@ The [keyboard viewer](https://support.apple.com/kb/PH21565) will allow you to di
 
 ### Input
 
-- Use **⌘⌃Space** for **[emoji and special character pop-up](http://www.engadget.com/2013/12/13/this-is-the-most-important-mavericks-keyboard-shortcut-youll-di/)**. This is the quickest way for most to find special characters.
+- Use **⌘⌃Space** for the **[emoji and special character pop-up](http://www.engadget.com/2013/12/13/this-is-the-most-important-mavericks-keyboard-shortcut-youll-di/)**. This is the quickest way for most to find special characters.
 - You can switch to different **language keyboards** by adding new [input source](https://support.apple.com/kb/PH21564).
 Once multiple inputs are enabled, use the menu to select or **^⌥Space**.
 - Pressing **Fn** **Fn** will start voice dictation if you [enable this feature](https://support.apple.com/kb/HT202584).
-- Add the “Unicode Hex Input” keyboard for [entering Unicode inputs by code](Unicode Hex Input).
+- Enable the “Unicode Hex Input” keyboard to [enter Unicode inputs by hex code](https://gigaom.com/2011/04/26/quick-tip-type-unicode-characters-quickly/).
 
 ### Accents
 
