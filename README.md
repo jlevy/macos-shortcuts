@@ -1,6 +1,6 @@
 # OS X Shortcuts
 
-Did you know pressing **⌘⌥V** pastes text without formatting?
+Did you know pressing **⌘⇧⌥V** pastes text without its formatting?
 Well, most people don’t, but it’d save them time if they did!
 
 Lists of OS X keyboard shortcuts exist in the [usual places](https://support.apple.com/kb/HT201236), but they are mostly both incomplete and a slog to read through.
