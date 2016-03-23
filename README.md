@@ -106,6 +106,7 @@ The list above is not exhaustive, but you can learn additional ones via the **[k
 
 **⌘F** *Find*: Open a Find window, or find items in a document.  
 **⌘G** *Find Again*: Find the next occurrence of the item previously found. **⌘⇧G** for previous.
+**⌘E** *Find Selection*: Search for the selected text. Then use **⌘G** and **⌘⇧G** for navigation.
 
 **⌘Space** *Spotlight*: Show or hide the Spotlight search field.  
 **⌥Space** Show Finder search window.
