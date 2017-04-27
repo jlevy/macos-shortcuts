@@ -58,7 +58,7 @@ You can also type accents by pressing one of these modifier keys before a suitab
 
 **⌥E** Acute ´ &nbsp;&nbsp;
 **⌥I** Circumflex ˆ &nbsp;&nbsp;
-**⌥`** Grave \` &nbsp;&nbsp;
+**⌥\`** Grave \` &nbsp;&nbsp;
 **⌥N** Tilde ˜ &nbsp;&nbsp;
 **⌥U** Umlaut ¨
 
