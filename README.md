@@ -66,11 +66,13 @@ You can also type accents by pressing one of these modifier keys before a suitab
 ### Punctuation
 
 
-Enter an **[em dash](http://www.thepunctuationguide.com/em-dash.html)** (—) with **⇧⌥-**  
-Enter an **[en dash](http://www.thepunctuationguide.com/en-dash.html)** (–) with **⌥-**
+**[Em dash](http://www.thepunctuationguide.com/em-dash.html)** (—) is **⇧⌥-**  
+**[En dash](http://www.thepunctuationguide.com/en-dash.html)** (–) is **⌥-**  
+**[Ellipsis](https://www.thepunctuationguide.com/ellipses.html)** (…) is **⌥;**
+
 
 **Open and close quotes**: &nbsp; **⌥[** “ &nbsp; **⇧⌥[** ” &nbsp; **⌥]** ‘ &nbsp; **⇧⌥]** ’ &nbsp;
-**⌥/** « &nbsp; **⇧⌥/** »  
+**⌥\\** « &nbsp; **⇧⌥\\** »  
 (These are not the same as the ASCII characters " and '. If you’re confused, read more about [typographical conventions](http://practicaltypography.com/straight-and-curly-quotes.html).)
 
 Some other special character shortcuts:  
