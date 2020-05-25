@@ -54,18 +54,6 @@ Once multiple inputs are enabled, use the menu to select or **^⌥Space**.
 - Pressing **Fn** **Fn** will start voice dictation if you [enable this feature](https://support.apple.com/kb/HT202584).
 - Enable the “Unicode Hex Input” keyboard to [enter Unicode inputs by hex code](https://gigaom.com/2011/04/26/quick-tip-type-unicode-characters-quickly/).
 
-### Accents
-
-You can **type accents by [holding down keys](https://support.apple.com/kb/HT201586)**, unless you [disable that feature](http://lifehacker.com/5826055/make-your-keyboard-keys-repeat-properly-when-held-down-in-mac-os-x-lion).
-You can also type accents by pressing one of these modifier keys before a suitable letter (for example, **⌥I o** yields the letter *ô*):
-
-**⌥E** Acute ´ &nbsp;&nbsp;
-**⌥I** Circumflex ˆ &nbsp;&nbsp;
-**⌥\`** Grave \` &nbsp;&nbsp;
-**⌥N** Tilde ˜ &nbsp;&nbsp;
-**⌥U** Umlaut ¨
-
-
 ### Punctuation
 
 
@@ -104,6 +92,17 @@ Some other special character shortcuts:
 **⌥S** ß
 
 The list above is not exhaustive, but you can learn additional ones via the **[keyboard viewer](https://support.apple.com/kb/PH21565)** or these lists of [regular](http://symbolcodes.tlt.psu.edu/accents/codemac.html) and [extended](http://symbolcodes.tlt.psu.edu/accents/codemacext.html) shortcuts.
+
+### Accents
+
+You can **type accents by [holding down keys](https://support.apple.com/kb/HT201586)**, unless you [disable that feature](http://lifehacker.com/5826055/make-your-keyboard-keys-repeat-properly-when-held-down-in-mac-os-x-lion).
+You can also type accents by pressing one of these modifier keys before a suitable letter (for example, **⌥I o** yields the letter *ô*):
+
+**⌥E** Acute ´ &nbsp;&nbsp;
+**⌥I** Circumflex ˆ &nbsp;&nbsp;
+**⌥\`** Grave \` &nbsp;&nbsp;
+**⌥N** Tilde ˜ &nbsp;&nbsp;
+**⌥U** Umlaut ¨
 
 ## Common Shortcuts
 
