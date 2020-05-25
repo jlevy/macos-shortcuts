@@ -1,15 +1,18 @@
-# OS X Shortcuts
+# MacOS Shortcuts
+
+**The Ultimate List**
 
 Did you know pressing **⌘⇧⌥V** pastes text without its formatting?
 Or that **⇧⌥-** makes an em dash (—)?
 Well, most people don’t, but it’d save them time if they did!
 
-Lists of OS X keyboard shortcuts exist in the [usual places](https://support.apple.com/kb/HT201236), but they are mostly both incomplete and a slog to read through.
+Lists of MacOS keyboard shortcuts exist in the [usual places](https://support.apple.com/kb/HT201236), but they are mostly both incomplete and a slog to read through.
 Here they are in one page, organized roughly so *more useful ones are at the front*.
-We cover shortcuts for OS X that work in many apps or in Finder, but not shortcuts for individual apps.
+We cover shortcuts that work in many apps or in Finder, but not shortcuts for individual apps.
 Note these are the **default settings**.
 Global shortcuts [can be reassigned](https://support.apple.com/kb/PH18415) and if assigned in conflicting ways [may stop working](https://support.apple.com/kb/PH18424).
-This is an “**open guide**,” so you see any ways this can be improved, **[please contribute](CONTRIBUTING.md)**!
+
+🚧 If you see any ways this guide can be improved, **[please contribute](CONTRIBUTING.md)**!
 
 **⌘⇧⌥⌃ε=ε=ε=ε=ε=ε=┌(|•͡˘‿•͡˘)┘.**
 
